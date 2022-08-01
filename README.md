@@ -1,3 +1,5 @@
+# Note: Not up-to-date
+
 # Schema Evolution Exploration
 
 These notebooks were created to test out how schema evolution works in both Spark and Presto.
